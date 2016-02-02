@@ -4,16 +4,23 @@ HibernateSchoolManyToMany:
 
 Model Student Course Registration.
 Student: ID, Name
+
 Course: ID, Name
+
 A student can take many courses and a course can have many students.
+
 1).Write code/Hibernate entity bean classes to model Student and Course and student course registration.
+
 2). Write a Student DAO class that support
+
 	2.1). add a new student along with their course registrations.
+
 	2.2). Delete a student.
+
 	2.3).Get all students, sorted by their name, for a given course with course name as input.
-	Bonus Points:
-	2.4). What if we want to record course scores? 
-                      
+	
+	2.4). What if we want to record course scores?
+	
 	2.5). How to find all students who don’t register for a given course?  
 
 genericPriorityQueue:
