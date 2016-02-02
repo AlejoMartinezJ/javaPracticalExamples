@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/Users/yvan/Documents/javaPractical/.metadata/.plugins/org.eclipse.jdt.core
+815321905.index
+3300512819.index
+1457557139.index
+3321764370.index
+364434299.index
+4195320916.index
+3643592757.index
+807984572.index
+4283281261.index
+4006395353.index
+140680936.index
+1960091288.index
+2630087776.index
+135232736.index
+2134042553.index
+2542251949.index
+2820397700.index
